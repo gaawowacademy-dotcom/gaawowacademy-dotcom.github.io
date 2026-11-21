@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.gaawowacademy.ems",
+        "sha256_cert_fingerprints": ["1A:A2:46:55:95:09:97:4C:2C:2A:67:11:2D:62:AC:F8:A2:AC:EA:83:F0:DF:AE:0E:CF:8F:0D:AE:7E:F7:53:DC"]
+      }
+    }]
